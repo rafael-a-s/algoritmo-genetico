@@ -15,6 +15,7 @@ public class Populacao
     int i;
     for (i = 0; i < Constants.sizePopulacao; i++)
     {
+      //aqui o filho da geracao passada
       if(i == 0 && cromossomo != null && cromossomo.Count > 0 ) {
         var evolucao = new Individuo(cromossomo);
         evolucao.Score = calculaScore(evolucao);
@@ -60,15 +61,6 @@ public class Populacao
     {
       populacao[i].setFitnessPercent((populacao[i].getFitness() * 100) / somatoriaFitness);
     }
-  }
-
-  public void atuazarValores()
-  {
-    //CalcularFitness
-    calcularFitness();
-
-    //CalcularFitnessPercent;
-    calcularFitnessPercent();
   }
 
   public double getMediaPopulacao()
