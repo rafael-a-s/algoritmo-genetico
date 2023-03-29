@@ -1,0 +1,15 @@
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/bin/Debug/net6.0/Algoritm_genetic
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/bin/Debug/net6.0/Algoritm_genetic.deps.json
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/bin/Debug/net6.0/Algoritm_genetic.runtimeconfig.json
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/bin/Debug/net6.0/Algoritm_genetic.dll
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/bin/Debug/net6.0/ref/Algoritm_genetic.dll
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/bin/Debug/net6.0/Algoritm_genetic.pdb
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.csproj.AssemblyReference.cache
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.AssemblyInfoInputs.cache
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.AssemblyInfo.cs
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.csproj.CoreCompileInputs.cache
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.dll
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/ref/Algoritm_genetic.dll
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.pdb
+/home/rafael/Documentos/ia-projects/algoritm_genetic/Algoritm_genetic/obj/Debug/net6.0/Algoritm_genetic.genruntimeconfig.cache
